@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="centrovka">центровка</string>
+    <string name="fokus">фокусировка</string>
+    <string name="otkl">отключение режимов</string>
+</resources>

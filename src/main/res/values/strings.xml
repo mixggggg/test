@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test_projekt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="centrovka">центр</string>
+    <string name="fokus">фокус</string>
+    <string name="otkl">отключение режимов</string>
+</resources>
