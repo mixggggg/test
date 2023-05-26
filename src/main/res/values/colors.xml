@@ -10,7 +10,9 @@
     <color name="ellou">#FB8C00</color>
     <color name="yellow">#F6E759</color>
     <color name="btnColor">#41000000</color>
-    <color name="darkblue">#001343</color>
+    <color name="dark_blue">#001343</color>
     <color name="green">#177A0B</color>
+    <color name="light_green">#1EF603</color>
+    <color name="light_green2">#8F80D875</color>
     <color name="purple">#501186</color>
 </resources>

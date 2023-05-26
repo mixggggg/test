@@ -140,7 +140,7 @@ class MainActivity : AppCompatActivity() {
         marker = Marker(mMapView)
         marker.position = point
         marker.title = "Жду заказ"
-        marker.icon = resources.getDrawable(R.drawable.baseline_local_pizza_24)
+        marker.icon = resources.getDrawable(R.drawable.icon_pizza)
         marker.setAnchor(Marker.ANCHOR_CENTER, Marker.ANCHOR_BOTTOM)
         marker.isDraggable = true
         mMapView.overlays.add(marker)
